@@ -1,0 +1,22 @@
+body{ color: brown; }
+
+.name{ font-family:sans-serif;
+		font:fantasy;
+		font size: 18;
+		color: teal;
+
+
+ }
+
+.paragraph1 { font-family: sans-serif;
+	font:fantasy; 
+ }
+
+ .title { font-family: sans-serif;
+ 	font: fantasy;
+ 	font-size: 200;
+ 	color: teal;
+ 	font-stretch: 10;
+ 	font-kerning: 30
+
+ }
