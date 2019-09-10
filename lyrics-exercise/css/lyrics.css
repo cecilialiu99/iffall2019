@@ -1,0 +1,38 @@
+body{ 
+	width:750px;
+	max-width: 80%;
+	margin:auto;
+	background-color:black;
+
+}
+
+section{
+		font-family:"futura";
+		color:white;
+		margin:1em 0 3em 0;
+		font-size: 11pt;
+
+
+}
+header{ 
+		font-family: "Lust Display";
+		color:white;
+		font-size:28pt;
+
+
+
+}
+h2{
+	font-family:"futura";
+	color:white;
+}
+
+img{
+	width:700px;
+	height:400px;
+	position: left;
+}
+
+div{
+	position: left;
+}
