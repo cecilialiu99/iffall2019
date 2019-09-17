@@ -1,0 +1,65 @@
+
+
+
+
+
+
+body{ 
+	font-family: 'Barlow', sans-serif;
+	width:750px;
+	max-width: 80%;
+	margin:auto;
+	background-color:black;
+ 	
+ 
+}
+
+
+
+section{
+		font-family: 'Barlow', sans-serif;
+		color:white;
+		margin:1em 0 3em 0;
+		font-size: 11pt;
+
+
+}
+header{ 
+		font-family: 'Barlow', sans-serif;
+		color:white;
+		font-size:50pt;
+
+
+
+}
+h2{
+	font-family:"futura";
+	color:white;
+}
+
+img{
+	width:700px;
+	height:400px;
+	position: left;
+}
+
+div{
+	position: left;
+}
+
+.title{
+	font-style: italic;
+	letter-spacing:0.1em;
+	text-transform:uppercase;
+
+}
+
+.main{
+	letter-spacing: .06em;
+
+
+}
+.emphasis{
+	font-style: italic;
+	font-weight:200i;
+}
