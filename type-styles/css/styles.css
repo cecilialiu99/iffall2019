@@ -1,0 +1,119 @@
+body{
+	font-family: 'Raleway', sans-serif; /*commenting on css*/ 
+	font-size: 20pt; /*16px; 16%; 1em; 1rem; -the em is 100% of whatever font size you set - so here 100% would be 16px- */
+}
+
+h1{
+	font-family: 'Raleway', sans-serif;
+	font-size: 55pt;
+	color: rgba(200,0,150,.5);
+	font-weight:700; /*100, 200, 400, 500, 700, 900*/
+	text-transform:uppercase;
+}
+h2{
+	font-family: 'Raleway', sans-serif;
+	font-size: 27pt;
+	color:rgba(150,0,150;.7)
+	font-weight:100;
+
+
+}
+
+strong{ 
+	font-weight:normal;
+	font-style: italic;
+	text-decoration: underline; /*none,overline,line-through*/
+ }
+p{
+	text-indent: 20px;
+	line-height: 2;
+	letter-spacing:0.1em;
+	text-align: center;
+}
+
+.heading{
+	font-weight:700;
+	color: black;
+	font-size:50;
+}
+
+.Font-weight1{
+	font-weight:normal;
+
+}
+.font-weight2{
+	font-weight:bold;
+
+}
+.font-weight3{
+
+}
+.font-weight4{
+
+}
+.Font-style1{
+	font-style:normal;
+
+}
+.font-style2{
+	font-style:italic;
+
+}
+.font-style3{
+
+}
+.font-style4{
+	
+}
+
+.letter-spacing1{
+	letter-spacing: normal;
+
+}
+.letter-spacing2{
+	letter-spacing: .3em;
+
+}
+.letter-spacing3{
+	letter-spacing: .06em;
+
+}
+.letter-spacing4{
+	
+}
+.text-transform1{
+	text-transform: none;
+
+}
+.text-transform2{
+	text-transform: uppercase;
+
+}
+.text-transform3{
+	text-transform: lowercase;
+
+}
+.text-transform4{
+	text-transform: capitalize;
+	
+}
+.text-decoration1{
+	text-decoration: none;
+
+
+}
+.text-decoration2{
+	text-decoration: underline;
+
+}
+.text-decoration3{
+	text-decoration: line-through;
+
+}
+.text-decoration4{
+	text-decoration: overline;
+}
+
+.subhead{
+	font-size:13pt;
+}
