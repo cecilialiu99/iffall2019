@@ -1,0 +1,111 @@
+section{
+	position:relative;
+}
+
+.first_callout {
+	float: right;
+}
+
+aside{
+	font-size:24px;
+	font-family:Georgia,Serif;
+	font-style:italic;
+	background-color:#aaa;
+	color: #fff;
+	padding:1.5rem;
+	width:15rem;
+}
+
+aside{
+	display:block;
+}
+
+.second_callout{
+	position:relative;
+	bottom:-300px;
+	right:-638px;
+}
+
+aside{
+	font-size:24px;
+	font-family:Georgia,Serif;
+	font-style:italic;
+	background-color:#aaa;
+	color: #fff;
+	padding:1.5rem;
+	width:15rem;
+}
+
+aside{
+	display:block;
+}
+
+.third_callout{
+	background-color:green;
+	position:fixed;
+	top:0;
+	right:0;
+
+}
+
+aside{
+	font-size:24px;
+	font-family:Georgia,Serif;
+	font-style:italic;
+	color: #fff;
+	padding:1.5rem;
+	width:15rem;
+
+}
+
+aside{
+	display:block;
+}
+
+#first{
+	background-color:red;
+	position:absolute;
+	left:50%;
+	top:50%;
+	z-index:10;
+	transform: translate(-50%,-50%);
+}
+
+aside{
+	font-size:24px;
+	font-family:Georgia,Serif;
+	font-style:italic;
+	color: #fff;
+	padding:1.5rem;
+	width:15rem;
+
+}
+
+aside{
+	display:block;
+}
+
+#second{
+	background-color:black;
+	z-index: 5;
+	position:absolute;
+	left:calc(50% + 10px);
+	top:calc(50% + 10px);
+	transform: translate(-50%,-50%);
+
+}
+
+aside{
+	font-size:24px;
+	font-family:Georgia,Serif;
+	font-style:italic;
+	color: #fff;
+	padding:1.5rem;
+	width:15rem;
+
+}
+
+aside{
+	display:block;
+}
+
