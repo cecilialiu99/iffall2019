@@ -9,7 +9,7 @@ div#image_one img{
 	}
 
 header{
-	background-color:#d4f5ff;
+	background-color:#507296;
 	margin:0 1rem;
 
 }
@@ -30,28 +30,38 @@ div#image_three img{
 
 
 body{
-	background-color:#d4f5ff;
+	background-color:#507296;
 	font-family: 'Josefin Sans', sans-serif;
 	margin:0;
 	font-size:20px;
+	color:#e8dfa9;
 }
 
 h1{
 	font-family: 'Vidaloka', serif;
-	font-size: 60px;
+	font-size: 45px;
+	color:#c0e7fc;
+	text-decoration:underline;
+	border:4px solid #e8dfa9;
+
+	
 
 
 }
 
 h2{font-family: 'Josefin Sans', sans-serif;
-	font-size:20px;
+	font-size:18px;
 
 
 }
 
 h3{
 	font-family: 'Vidaloka', serif;
-	font-size: 40px;
+	font-size: 35px;
+	color:#c0e7fc;
+	text-decoration:underline;
+	border:2px solid #e8dfa9;
+
 
 
 }
@@ -67,4 +77,5 @@ h5{
 
 section{
 	margin:0 1rem;
+	font-size:19px;
 }
