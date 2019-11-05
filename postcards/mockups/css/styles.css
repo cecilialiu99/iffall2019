@@ -1,0 +1,36 @@
+.web img{
+				width:100%;
+				margin:auto;
+			}
+.mobile img{ 
+	width: 30%
+
+
+}
+#partone li{
+	list-style-type:none;
+	display:inline-block;
+	vertical-align: top;
+	width:30%;
+	margin:10px;
+	
+}
+
+h1{
+	font-family: futura;
+	font-size:45px;
+	margin:30px;
+	margin-top:30px;
+
+}
+
+h2{
+	font-family:futura;
+	font-size:25px;
+	margin:30px;
+}
+
+body{
+	background-color:black;
+	color:white;
+}
