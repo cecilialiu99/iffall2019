@@ -1,0 +1,130 @@
+html,body{
+	height:100%;
+}
+
+#postcard1{
+	background-image:
+	url(../images/jim.png);
+	background-size:cover;
+	background-repeat: no-repeat;
+}
+
+#postcard2{
+	background-image:
+	url(../images/pam.png);
+	background-size:cover;
+	background-repeat: no-repeat;
+}
+
+#postcard3{
+	background-image:
+	url(../images/dwight.png);
+	background-size:cover;
+	background-repeat: no-repeat;
+}
+
+
+
+#fullpage{
+	width:100%;
+	z-index: 30;
+	height:100%;
+}
+
+a{
+	color:black;
+}
+div{display:block;}
+
+div.quote{
+	font-size:25pt;
+	font-family:'Inconsolata', monospace;
+}
+
+div.quote-container{
+	position: absolute;
+	left: 50%;
+	top: 21%;
+	width: 40%;
+
+	
+	
+}
+div.attribution{
+	font-size:15pt;
+	font-family:'Inconsolata', monospace;
+}
+	
+
+@media(max-width:938px){
+	div.quote{
+		
+		font-size:15pt;
+	}
+}
+
+@media(max-width:938px){
+	div.attribution{
+	
+		font-size:10pt;
+
+
+	}
+}
+
+@media(max-width:938px){
+	div.quote-container{
+	
+		left:50px;
+
+
+	}
+}
+
+@media(max-width:600px){
+	body{
+	
+		background-position:bottom left;
+
+
+	}
+}
+
+@media(min-width:800px){
+	
+		.quote-container{
+			width:60%;
+			margin-right:100px;
+			
+		}
+	
+}
+
+@media(min-width:1040px){
+	
+		.quote-container{
+			width:80%;
+			
+		}
+	
+}
+@media(min-width:1200px){
+	
+		.quote-container{
+			width:50%;
+			
+		}
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
